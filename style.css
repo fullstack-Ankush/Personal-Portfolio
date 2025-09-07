@@ -47,7 +47,7 @@ body {
 #main{
     width: 80%;
     height: 100%;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     /* background-color: aliceblue; */
@@ -72,4 +72,9 @@ body {
 #cta button:hover{
     background-color: black;
     color: white;
+}
+#Project-list{
+    background-color: grey;
+    width: 100%;
+    height: 100%;
 }
